@@ -1086,6 +1086,21 @@ Upload to GitHub Pages for free hosting.
 ```
 ## OUTPUT
 
+<img width="1866" height="932" alt="Screenshot 2025-08-11 222008" src="https://github.com/user-attachments/assets/903179ff-f8c8-45c2-a8b9-1fb040e852f1" />
+
+<img width="1516" height="794" alt="Screenshot 2025-08-11 222020" src="https://github.com/user-attachments/assets/39ac7105-3aab-425a-9567-fbf51c121c06" />
+
+<img width="1846" height="849" alt="Screenshot 2025-08-11 222034" src="https://github.com/user-attachments/assets/65400ae0-ca32-4a4c-962a-90822a16b6d7" />
+
+<img width="1682" height="807" alt="Screenshot 2025-08-11 222050" src="https://github.com/user-attachments/assets/895aecaf-c5fb-4fcf-8cd8-d07daa61c74f" />
+
+<img width="1574" height="568" alt="Screenshot 2025-08-11 222059" src="https://github.com/user-attachments/assets/9c7fc349-130c-4ce6-bc80-dd08f15f3143" />
+
+<img width="1883" height="789" alt="Screenshot 2025-08-11 222105" src="https://github.com/user-attachments/assets/3e99333a-3f2f-4849-8809-2ed57707b664" />
+
+<img width="1732" height="742" alt="Screenshot 2025-08-11 222128" src="https://github.com/user-attachments/assets/a7c69332-230a-4e7f-bc05-19a27d60d164" />
+
+<img width="1711" height="600" alt="Screenshot 2025-08-11 222134" src="https://github.com/user-attachments/assets/28632c2e-f190-45ac-9a88-b33971c3a959" />
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
